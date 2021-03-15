@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-const conecta = new Sequelize('perguntas', 'joshe', 'ratatuia', {
+const conecta = new Sequelize('perguntas', 'home', ' pass', {
 
 	host: 'localhost',
 	dialect: 'mysql'
